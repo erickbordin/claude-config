@@ -34,11 +34,9 @@
 
 ## Espelho do Claude (`~/claude-config`)
 
-O repo privado `erickbordin/claude-config` é o que monta meu Claude em outro PC; deixá-lo para trás quebra o próximo PC. Mudou algo em `~/.claude` ou `~/.agents/skills` (CLAUDE.md, settings, hook, skill, plugin, marketplace, MCP do usuário, memória) → antes de encerrar a tarefa:
+O repo privado `erickbordin/claude-config` é o que monta meu Claude em outro PC. Um hook `Stop` (`sincronizar.sh`) exporta `~/.claude` e dá push sozinho a cada resposta; o log fica em `~/claude-config/.sincronizar.log`.
 
-1. Em `~/claude-config`, rode `./exportar.sh`.
-2. Plugin, marketplace, MCP do usuário ou programa novo também entram no `SETUP.md`, porque o `exportar.sh` não os escreve lá.
-3. Commit e push direto na `main` (aqui não tem PR). Pronto = `git status` limpo e `git log origin/main` com o commit.
+O hook não escreve o `SETUP.md`: instalou plugin, marketplace, MCP do usuário ou programa novo → acrescente o comando de instalação no `SETUP.md` do repo na mesma tarefa.
 
 # graphify
 - **graphify** (`~/.claude/skills/graphify/SKILL.md`) - any input to knowledge graph. Trigger: `/graphify`

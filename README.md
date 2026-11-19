@@ -8,11 +8,9 @@ Meu Claude Code (CLAUDE.md, settings, skills, plugins, MCP e memória) para mont
 2. `gh repo clone erickbordin/claude-config` (ou `git clone`).
 3. Abra o Claude dentro da pasta e peça: **"Leia o SETUP.md e monte meu ambiente."**
 
-## Atualizar a partir deste PC
+## Atualizar
 
-```bash
-./exportar.sh && git add -A && git commit -m "chore: atualiza configuração" && git push
-```
+Automático: um hook `Stop` no `settings.json` roda `sincronizar.sh` a cada resposta do Claude (exporta, commita e dá push; log em `.sincronizar.log`). Para rodar na mão: `./sincronizar.sh`.
 
 ## O que tem aqui
 
