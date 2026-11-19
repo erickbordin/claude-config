@@ -32,6 +32,14 @@
 - Commits pequenos e frequentes: um passo lógico por commit.
 - Commite e faça push da branch; merge é meu.
 
+## Espelho do Claude (`~/claude-config`)
+
+O repo privado `erickbordin/claude-config` é o que monta meu Claude em outro PC; deixá-lo para trás quebra o próximo PC. Mudou algo em `~/.claude` ou `~/.agents/skills` (CLAUDE.md, settings, hook, skill, plugin, marketplace, MCP do usuário, memória) → antes de encerrar a tarefa:
+
+1. Em `~/claude-config`, rode `./exportar.sh`.
+2. Plugin, marketplace, MCP do usuário ou programa novo também entram no `SETUP.md`, porque o `exportar.sh` não os escreve lá.
+3. Commit e push direto na `main` (aqui não tem PR). Pronto = `git status` limpo e `git log origin/main` com o commit.
+
 # graphify
 - **graphify** (`~/.claude/skills/graphify/SKILL.md`) - any input to knowledge graph. Trigger: `/graphify`
 When the user types `/graphify`, use the installed graphify skill or instructions before doing anything else.
