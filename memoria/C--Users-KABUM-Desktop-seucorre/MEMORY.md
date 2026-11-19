@@ -1,0 +1,25 @@
+- [CLAUDE.md global vence](claude-md-global-vence.md) — em conflito com o do projeto, siga o global
+- [Assinatura anual: decisões](assinatura-anual-decisoes.md) — R$ 179,90/ano, Pix 365 dias, lança junto, termos/stripe/infra por último
+- [Plugin lgpd-skills](lgpd-skills-plugin.md) — LGPD/ANPD; usar em privacidade, saúde e transferência internacional
+- [Trabalho visual](trabalho-visual.md) — opções de tela sempre com prints reais lado a lado, nunca só texto/ASCII
+- [Nunca Instagram pessoal](nunca-instagram-pessoal.md) — só contas do produto (IG @seucorre.app, TikTok @seucorre) e páginas temáticas; conferir conta ativa
+- [Marketing orgânico, custo zero](marketing-organico-zero-custo.md) — sem gasto até ter receita; conteúdo julgado por trazer cliente
+- [Postar sem aprovação](postar-sem-aprovacao.md) — X, Instagram e TikTok: postar sem perguntar e avisar com o link
+- [Vídeos com SFX](videos-com-sfx.md) — todo vídeo leva SFX CC0 embutido; música vem da plataforma
+- [Música só o Erick; máxima qualidade](musica-so-o-erick.md) — nunca escolher música; subir sempre a versão de maior qualidade (2 passes ~9,5 MB)
+- [X: só tech, sem piada](x-respostas-tech-sem-piada.md) — respostas só em posts tech com audiência; nunca piada; idioma segue o do post
+- [Backup do banco só na produção](backup-do-banco-na-producao.md) — adiado até o lançamento; R2/age/secrets do GitHub ainda por fazer
+- [Opus liberado em mídias sociais](opus-liberado-midias-sociais.md) — vídeos/conteúdo: Opus 5.5, effort até high, nunca xhigh/ultra
+- [Vídeo: só salvar, não postar](video-so-salvar-nao-postar.md) — bloqueio no TikTok; vídeos vão para Desktop\seucorre-midia\tiktok (e \instagram)
+- [X: só salvar em .md](x-so-salvar-md.md) — posts vão para Desktop\seucorre-midia\x; não posto mais no X
+- [Copiar concorrentes](modelo-copiar-concorrentes.md) — desde 08/11 parar de inventar; copiar formatos validados, sem abrir TikTok/IG no navegador
+- [IA: Gemini, não DeepSeek](ia-gemini-nao-deepseek.md) — DeepSeek descartado; produção vira gemini só com billing ativo
+- [Lançar na App Store](lancar-na-app-store.md) — só app, iOS primeiro; site seucorre.app é permanente
+- [Narração no VoiceStudio](narracao-voicestudio.md) — VoiceStudio, voz feminina jovem (seed 11), frase por frase
+- [Economia de tokens](economia-de-tokens.md) — revisão só no fim (Sonnet), sem re-revisão de correção pequena, poucos prints, avisar custo antes
+- [Meta: 10 assinantes até 16/02/2027](meta-10-assinantes.md) — critério de sucesso do SeuCorre; julga toda ação de captação
+- [Meta: 50 na lista de espera até 20/12/2026](meta-50-lista-de-espera.md) — bateu, paga a Apple e lança; vem antes dos 10 assinantes
+- [Editor de Vídeo](editor-de-video.md) — vídeos do zero em Desktop\Editor de Vídeo (videos-brutos, referencias, exportacao)
+- [Marketing: marketing.md](tom-lifestyle-nike.md) — instruções do Erick (tom, Gen Z, visual); ler antes de criar conteúdo
+- [Sem Stripe, só lojas](sem-stripe-so-lojas.md) — desde 16/11 cobrança só pela Apple (Google depois); Stripe/Pix saem
+- [Mapa na corrida](mapa-na-corrida.md) — feito só no resumo (PR #195); design aprovado = linguagem das telas existentes
