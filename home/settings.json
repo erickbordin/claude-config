@@ -48,8 +48,8 @@
           {
             "type": "command",
             "command": "[ ! -f ~/claude-config/sincronizar.sh ] || bash ~/claude-config/sincronizar.sh",
-            "async": true,
-            "timeout": 120
+            "timeout": 120,
+            "async": true
           }
         ]
       }
