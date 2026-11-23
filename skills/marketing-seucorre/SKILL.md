@@ -20,7 +20,7 @@ description: Regras do marketing do SeuCorre no TikTok, Instagram e X. Use ao pr
   - conta nova aquece 20 min por dia antes do primeiro post: seguir, curtir e salvar conteúdo de corrida
   - as contas nunca comentam nem interagem entre si (a plataforma lê como comportamento coordenado e bane em bloco)
   - o Erick cria e posta pelo celular, como nas contas do produto
-  - bio e primeira linha da legenda declaram "personagem fictícia" do SeuCorre (publicidade identificada, CDC art. 36 e CONAR; decisão do Erick, 22/11/2026)
+  - a bio identifica "conteúdo do @seucorre" e a primeira linha da legenda declara "personagem fictícia do seucorre." (publicidade identificada, CDC art. 36 e CONAR; decisão do Erick, 23/11/2026)
   - personas, bios, links e @ de cada conta: `C:\Users\KABUM\Desktop\seucorre-midia\paginas-tematicas.md`
 
 ## Carrossel

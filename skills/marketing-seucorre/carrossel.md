@@ -19,7 +19,7 @@ Playbook adaptado do artigo de Matheus Gobbi (@matheusgobbidev, Fitfolio, "Como 
 ## levar para a lista de espera
 
 - Cada conta tem o próprio link na bio: `www.seucorre.app/?origem=<conta>`, com a origem em minúsculas no formato `[a-z0-9_-]{1,30}` (`tiktok`, `instagram`, `tt-<persona>`, `ig-<persona>`). O site grava a origem e a contagem por conta sai de `select origem, count(*) from lista_de_espera group by origem` (MCP `supabase`, só leitura).
-- Nas páginas temáticas, a bio fala como a persona e a declara: "personagem fictícia do @seucorre, primeiro mês grátis na lista" + o link.
+- Nas páginas temáticas, a bio fala como a persona e identifica a marca: "conteúdo do @seucorre, primeiro mês grátis na lista" + o link.
 - Sem link clicável na bio (TikTok abaixo de 1 mil seguidores), escreva `seucorre.app` na bio em texto; essas inscrições chegam sem origem.
 - O convite vai na legenda e na bio, nunca nos slides: "entra na lista pelo link da bio, primeiro mês grátis".
 - Ofertas que o site entrega hoje: primeiro mês grátis e "os 100 primeiros testam o app antes do lançamento". Prometa só o que estiver no site.
