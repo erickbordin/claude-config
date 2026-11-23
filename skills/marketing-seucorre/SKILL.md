@@ -41,7 +41,7 @@ description: Regras do marketing do SeuCorre no TikTok, Instagram e X. Use ao pr
 - Posts do X: `C:\Users\KABUM\Desktop\seucorre-midia\x\AAAA-MM-DD.md`.
 - Carrosséis: `C:\Users\KABUM\Desktop\conteudo\imagens\lote-NN\<código>\` com `instagram\` (1080×1350), `tiktok\` (1080×1920) e `legenda.md`, mais `roteiro.md` por lote. Gerador em `lote-01\fonte`: texto e foto de cada slide em `dados.js` (campo `lote` escolhe a pasta), depois `node renderizar.mjs <códigos>`; fotos do Unsplash em `fonte\fotos` com `LICENCAS.md`.
 - A pessoa da foto tem o gênero da persona (marina, duda, lia e nina são mulheres; caio e theo, homens); grupo, multidão e foto sem pessoa servem a todos. Foto nova entra classificada em `MULHER` ou `HOMEM` de `fonte\genero.mjs`, e `node genero.mjs` passa antes de renderizar.
-- O Erick posta a partir de `C:\Users\KABUM\Desktop\conteudo\postar\<persona>\<data>\` (cópias com a ordem do dia e a `legenda.md`, mais `calendario.md` por persona). Carrossel novo entra no `CALENDARIO` de `lote-01\fonte\organizar.mjs`; depois `node organizar.mjs <data de início>` refaz as pastas.
+- O Erick posta a partir de `C:\Users\KABUM\Desktop\conteudo\postar\<persona>\<data>\` (cópias com a ordem do dia e a `legenda.md`, mais `calendario.md` por persona). Carrossel novo entra no `CALENDARIO` de `lote-01\fonte\organizar.mjs`; depois `node organizar.mjs` acrescenta as pastas novas e preserva as existentes, os `[x]` e as views.
 - Prints da Duda (`telas-video\duda-*.png`) vêm de conta de teste em produção: sem assinatura só a semana 1 aparece, então não há tela de caminhada com trote.
 - Máxima qualidade: master crf=1 e upload em 2 passes de cerca de 9,5 MB.
 - Registro em `C:\Users\KABUM\Desktop\conteudo\videos\fila\` e `~/.claude/midias-sociais\`.
