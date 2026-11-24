@@ -19,3 +19,5 @@ Foto: não repete no carrossel e no máximo 2 carrosséis por lote (`conferir-lo
 **Why:** método de carrossel do Matheus Gobbi sem apresentar personagem inventada como pessoa real.
 
 **How to apply:** legenda de persona começa com "personagem fictícia do seucorre."; bios ficam com "conteúdo do @seucorre" (não pedir troca). Fase 2 só com API oficial e "sim" por lote. Regras em [[tom-lifestyle-nike]] e [[modelo-copiar-concorrentes]]; nada é postado por agente ([[video-so-salvar-nao-postar]]).
+
+**Atualização 2026-11-24:** caio e duda são as duas contas temáticas (personas fictícias), não pessoas da equipe. Geração de imagem voltou: fotos de IA grátis sem metadados, copycat e rascunho no TikTok em [[estrategia-slideshows-copycat]].

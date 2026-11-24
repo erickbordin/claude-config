@@ -17,3 +17,5 @@ Sempre usar o arquivo de maior qualidade disponível no upload. No Claude in Chr
 **Why:** em 2026-11-06 a música que escolhi no TikTok ("Sport Motivation") ficou "simplesmente ruim"; ele disse "nunca mais escolha a musica, deixa que eu escolho" e "sempre usa o que tiver mais qualidade".
 
 **How to apply:** vale para todo vídeo de [[videos-com-sfx]]; ao terminar um post de vídeo, dizer que a música está pendente com ele.
+
+**Atualização 2026-11-24 (slideshows):** em todo slideshow eu sugiro o som, sempre um que esteja em alta ou que um vídeo/reel do TikTok usou (de preferência o do viral copiado); o Erick escolhe o final e posta. Ver [[estrategia-slideshows-copycat]].

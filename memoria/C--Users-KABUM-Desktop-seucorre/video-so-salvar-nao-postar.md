@@ -13,3 +13,5 @@ O Erick tomou bloqueio de IP e impressão digital no TikTok em 2026-11-06 e mand
 **Why:** a automação pelo Chrome disparou a detecção do TikTok.
 
 **How to apply:** vídeo = produzir, salvar com legenda.md pronta e avisar; sem abrir TikTok/Instagram no navegador para vídeo. TikTok sai só com SFX (ele põe a música no app); Instagram com trilha CC0 ([[musica-so-o-erick]]). Isto substitui [[postar-sem-aprovacao]] para vídeo. Posts de texto no X seguem como estão.
+
+**Atualização 2026-11-24:** postar segue com o Erick, mas o slideshow pode chegar pronto na caixa de rascunhos do TikTok pela API oficial (sem navegador nas contas que postam). Ver [[estrategia-slideshows-copycat]].
