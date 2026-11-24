@@ -26,3 +26,4 @@
 - [Mapa na corrida](mapa-na-corrida.md) — feito só no resumo (PR #195); design aprovado = linguagem das telas existentes
 - [Referências só para padrões](referencias-so-padroes.md) — sites de referência dão design/animação/cor, nunca layout copiado
 - [Bots de marketing no OpenBot](bots-de-marketing-orca.md) — workflow de sexta 9h prepara, o Erick posta; views na quinta 21h; foto sem repetir
+- [Equipe de marketing](equipe-de-marketing.md) — Caio e Duda cuidam do marketing desde 24/11/2026
