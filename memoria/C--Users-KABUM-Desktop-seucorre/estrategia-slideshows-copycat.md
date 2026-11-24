@@ -22,7 +22,7 @@ Postagem (caminho B): o slideshow vai para a caixa de rascunhos do TikTok no cel
 Limites e testes:
 - Só as 2 contas (Caio e Duda) até 24/12/2026; reavaliar com 30 dias de dados.
 - ChatGPT Plus: 1 semana no grátis contando imagens (~126 por semana); pagar só se o grátis cobrir menos da metade.
-- Rascunho no TikTok: 1 semana numa conta só antes das duas. Ainda falta descobrir qual ferramenta grátis manda para a caixa de rascunhos (API oficial do TikTok tem; Buffer não confirmado).
+- Postagem pelo Publer grátis no modo "Get a reminder" (decidido 24/11): eu encho a fila pelo Chrome na sexta e na terça (10 por conta no grátis); na hora, o app do Publer avisa o Erick, que põe o som no editor do TikTok e posta. Teste de 1 semana numa conta só. Buffer descartado (não posta slideshow); plano B é o Postiz instalado localmente, modo UPLOAD (cai nos rascunhos, bug aberto em slideshow desde 03/2026).
 - Placar de quinta conta views, cliques e inscrições pela bio (`?origem=tiktok`).
 
 **Why:** o Erick quer o mínimo de envolvimento pessoal no marketing e volume com formato validado.
