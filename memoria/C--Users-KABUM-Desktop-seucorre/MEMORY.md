@@ -24,4 +24,5 @@
 - [Sem Stripe, só lojas](sem-stripe-so-lojas.md) — desde 16/11 cobrança só pela Apple (Google depois); Stripe/Pix saem
 - [Lançamento no CPF, sem contador](lancamento-cpf-sem-contador.md) — textos legais por nós; endereço só em variável; Gemini pago só no lançamento
 - [Mapa na corrida](mapa-na-corrida.md) — feito só no resumo (PR #195); design aprovado = linguagem das telas existentes
+- [Referências só para padrões](referencias-so-padroes.md) — sites de referência dão design/animação/cor, nunca layout copiado
 - [Bots de marketing no Orca](bots-de-marketing-orca.md) — fase 1 prepara e o Erick posta; fase 2 automatiza; personas declaradas como fictícias
