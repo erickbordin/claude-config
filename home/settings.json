@@ -12,7 +12,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "[ ! -f \"C:\\\\Users\\\\KABUM\\\\.claude\\\\skills\\\\impeccable\\\\scripts\\\\impeccable\" ] || \"C:\\\\Users\\\\KABUM\\\\.claude\\\\skills\\\\impeccable\\\\scripts\\\\impeccable\" hook",
+            "command": "[ ! -f \"$HOME/.claude/skills/impeccable/scripts/impeccable\" ] || \"$HOME/.claude/skills/impeccable/scripts/impeccable\" hook",
             "timeout": 5,
             "statusMessage": "Preparing build session"
           }
@@ -25,7 +25,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "[ ! -f \"C:\\\\Users\\\\KABUM\\\\.claude\\\\skills\\\\impeccable\\\\scripts\\\\impeccable\" ] || \"C:\\\\Users\\\\KABUM\\\\.claude\\\\skills\\\\impeccable\\\\scripts\\\\impeccable\" hook",
+            "command": "[ ! -f \"$HOME/.claude/skills/impeccable/scripts/impeccable\" ] || \"$HOME/.claude/skills/impeccable/scripts/impeccable\" hook",
             "timeout": 5,
             "statusMessage": "Checking UI changes"
           }
@@ -37,7 +37,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "[ ! -f \"C:\\\\Users\\\\KABUM\\\\.claude\\\\skills\\\\impeccable\\\\scripts\\\\impeccable\" ] || \"C:\\\\Users\\\\KABUM\\\\.claude\\\\skills\\\\impeccable\\\\scripts\\\\impeccable\" hook",
+            "command": "[ ! -f \"$HOME/.claude/skills/impeccable/scripts/impeccable\" ] || \"$HOME/.claude/skills/impeccable/scripts/impeccable\" hook",
             "timeout": 30,
             "statusMessage": "Design deep pass"
           }
