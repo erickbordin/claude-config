@@ -1,19 +1,21 @@
 ---
 name: bots-de-marketing-orca
-description: "Bots de marketing no Orca: fase 1 prepara os lotes e o Erick posta; fase 2 automatiza a publicação; personas sempre declaradas como fictícias"
+description: "Bots de marketing no OpenBot (antes Orca): workflow de sexta 9h prepara os lotes e o Erick posta; personas declaradas como fictícias"
 metadata:
   node_type: memory
   type: project
   originSessionId: e3bae51e-93ad-46d5-8381-755ba561f92b
-  modified: 2026-11-23T15:16:55.391Z
+  modified: 2026-11-24T16:02:29.174Z
 ---
 
-Decisão do Erick em 22/11/2026: os teammates do Orca pesquisam, produzem, revisam e medem o conteúdo das páginas temáticas, e o Erick posta pelo celular. Depois ele quer automatizar a publicação para não precisar postar.
+Decisão do Erick em 22/11/2026: teammates pesquisam, produzem, revisam e medem o conteúdo das páginas temáticas, e o Erick posta pelo celular. Depois ele quer automatizar a publicação.
 
-Em 23/11/2026 o Erick definiu que, por enquanto, só existem as contas da Duda e do Caio e que não vai criar outras. Marina, Lia, Theo e Nina ficam paradas até ele avisar.
+Em 24/11/2026 ele trocou os bots do Orca pelo OpenBot. Workflow "ciclo de sexta" (sexta 9h): placar → radar → Approval → estudio → revisor → estudio (corrige) → Approval → estudio (organizar). Instruções em `Desktop\conteudo\bots\instrucoes`. A automação do Orca ficou desligada (id 1d4480b0). O OpenBot não lê o Chrome do Erick sem `browser_prepare` (não liberar: acesso total ao perfil).
 
-A primeira rodada (Caio, 7 carrosséis, lote-04) fechou em 23/11/2026 com cerca de 12 milhões de tokens, quase tudo cache. O Orca não grava modelo no `bot.json`: vale o seletor de cada chat, e `radar` e `revisor` rodaram em Opus nessa rodada em vez de Sonnet.
+Só existem as contas da Duda e do Caio (23/11/2026). O Erick anota views na quinta 21h (evento no Google Agenda). Pastas em `postar` começam pelo horário de postar (12h00, 18h00, 20h30; post sozinho às 18h00), desde 24/11.
 
-**Why:** seguir o método de carrossel do Matheus Gobbi (Fitfolio) sem apresentar personagem inventada como pessoa real recomendando o app.
+Foto: não repete no carrossel e no máximo 2 carrosséis por lote (`conferir-lote.mjs`). Pinterest só como referência em `Desktop\conteudo\referencias-imagens`, nunca foto em carrossel (direito autoral). Em 24/11 ele deixou de lado Pinterest, ChatGPT e geração de imagem: "seguir como está".
 
-**How to apply:** toda legenda de persona começa com "personagem fictícia do seucorre."; as bios ficam como estão, com "conteúdo do @seucorre" (decisão do Erick em 23/11/2026, não voltar a pedir a troca). A fase 2 só começa depois de a fase 1 rodar, com API oficial e o "sim" do Erick em cada lote. Regras de conteúdo em [[tom-lifestyle-nike]] e [[modelo-copiar-concorrentes]]; hoje nada é postado por agente ([[video-so-salvar-nao-postar]]).
+**Why:** método de carrossel do Matheus Gobbi sem apresentar personagem inventada como pessoa real.
+
+**How to apply:** legenda de persona começa com "personagem fictícia do seucorre."; bios ficam com "conteúdo do @seucorre" (não pedir troca). Fase 2 só com API oficial e "sim" por lote. Regras em [[tom-lifestyle-nike]] e [[modelo-copiar-concorrentes]]; nada é postado por agente ([[video-so-salvar-nao-postar]]).
