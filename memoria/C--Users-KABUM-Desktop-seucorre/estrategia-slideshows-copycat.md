@@ -11,7 +11,7 @@ metadata:
 Fechada com o Erick em 24/11/2026, a partir do post do Gabriel Buzzi (x.com/gabrielbuzziv/status/2109764044647436295) e das respostas dele.
 
 Produção, no ciclo de sexta:
-1. Pesquisar os virais de corrida dos últimos 7 dias numa conta de pesquisa (só lê, nunca posta), logada no Chrome. O Erick cria e aquece 7 dias no celular.
+1. Pesquisar os virais de corrida dos últimos 7 dias numa conta de pesquisa (só lê, nunca posta), logada no Chrome. O Erick cria no celular e aquece 1 a 2 dias (não posta, então não precisa dos 7).
 2. Copycat: copiar sequência de slides, gancho, ordem dos argumentos e estilo dos slideshows da concorrência. Texto reescrito e imagem gerada do zero; nunca a foto nem a frase literal deles.
 3. Fotos de IA no ChatGPT ou Gemini grátis, salvas sem metadados (decisão do Erick, ciente do risco de o TikTok detectar mesmo assim). O pedido do ciclo autoriza baixar as imagens geradas.
 4. Slides montados por código, com o SeuCorre no meio da sequência.
