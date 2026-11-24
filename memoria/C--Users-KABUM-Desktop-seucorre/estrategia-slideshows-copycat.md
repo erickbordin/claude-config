@@ -29,3 +29,5 @@ Limites e testes:
 **How to apply:** substitui partes de [[modelo-copiar-concorrentes]], [[musica-so-o-erick]], [[bots-de-marketing-orca]] e [[video-so-salvar-nao-postar]]; som sempre um que esteja em alta ou que um vídeo/reel do TikTok usou. Agente continua sem postar e sem entrar logado nas contas que postam.
 
 **Onde roda (Q16, 24/11):** os passos com navegador (pesquisa, fotos de IA, rascunho) rodam no Claude Code com o Claude in Chrome, quando o Erick pede "rode a coleta" na quinta depois das views (`Desktop\conteudo\bots\instrucoes\coleta.md`). O OpenBot segue sem `browser_prepare` e continua o ciclo de sexta a partir dos arquivos (`virais.md`, fotos em `fonte\fotos`).
+
+**Publer (24/11):** espaço "SeuCorre" no plano Free, com o TikTok da Duda conectado (conta do teste). Instagram do Caio falhou ao conectar: precisa virar conta Criador antes; não insistir no login. A primeira fila é na sexta 28/11; a instrução de encher a fila se escreve nesse dia.
