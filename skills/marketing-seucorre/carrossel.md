@@ -90,6 +90,7 @@ Playbook adaptado do artigo de Matheus Gobbi (@matheusgobbidev, Fitfolio, "Como 
 ## visuais
 
 - Foto real sempre que der.
+- Foto não repete dentro do carrossel e entra em no máximo 2 carrosséis do lote; comece pelas menos usadas em `dados.js`. O `conferir-lote.mjs` reprova o que passar disso.
 - Imagem gerada por IA: mesmo cenário, mesma luz e cara de foto de celular, e marcada como conteúdo de IA na plataforma.
 
 ## espremer o vencedor
