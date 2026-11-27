@@ -39,6 +39,8 @@ npx skills add Vincentwei1021/video-shotcraft -g -a claude-code
 
 Se o comando falhar, clone `https://github.com/Vincentwei1021/video-shotcraft` e copie a pasta para `<HOME>/.claude/skills/video-shotcraft/`.
 
+A `draw-icons` vem na cópia, sem o `node_modules`: ela roda `npm install --prefix <HOME>/.claude/skills/draw-icons/scripts` sozinha no primeiro uso.
+
 As skills `remotion-*` e `video-shotcraft` pedem `npm i` dentro do projeto de vídeo quando forem usadas, não agora.
 
 ## 4. Plugins
