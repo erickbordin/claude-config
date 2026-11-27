@@ -78,6 +78,17 @@ claude mcp add chrome-devtools -s user -- npx -y chrome-devtools-mcp@latest
 
 Os conectores do claude.ai (Google Drive, Calendar, Render, Claude Docs) vêm com a conta; não precisa instalar. Os MCPs do projeto SeuCorre (`supabase`, `render`, `stripe`) estão no `.mcp.json` do próprio repo e pedem login no primeiro uso: `/mcp` → servidor → Authenticate.
 
+### Guard da App Store
+
+Hook que barra envio à App Store com risco crítico de rejeição, mais a skill e o `/app-store-audit`. Rode no Git Bash, nunca no WSL (o WSL não enxerga o `~/.claude` do Windows):
+
+```bash
+git clone https://github.com/mjmirza/app-store-compliance ~/repositories/app-store-compliance
+bash ~/repositories/app-store-compliance/scripts/install.sh
+```
+
+Tem que terminar com `Install verified.`.
+
 ## 6. Memória
 
 Cada pasta em `<REPO>/memoria/` tem o nome do projeto no formato do Claude: o caminho com `:`, `\` e `/` trocados por `-`. Exemplo: `C--Users-KABUM-Desktop-seucorre` era `C:\Users\KABUM\Desktop\seucorre`.
