@@ -27,3 +27,4 @@
 - [Referências só para padrões](referencias-so-padroes.md) — sites de referência dão design/animação/cor, nunca layout copiado
 - [Bots de marketing no OpenBot](bots-de-marketing-orca.md) — workflow de sexta 9h prepara, o Erick posta; views na quinta 21h; foto sem repetir
 - [Estratégia de slideshows copycat](estrategia-slideshows-copycat.md) — fechada 24/11: copycat dos virais, IA sem metadados, rascunho no TikTok, som em alta sugerido por mim
+- [Site sem foto](site-sem-foto.md) — seucorre.app sem foto; fundo por grafismo, cor ou tipografia
